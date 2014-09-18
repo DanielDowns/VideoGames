@@ -3,3 +3,6 @@ Its a bullet-hell style game that has a slight rock-paper-siccors element to it.
 
 I was the Lead Programmer on this game. I programmed the GUI, the player, damage for all entities,
 level transitions, and various other things.
+
+Source examples shows a couple of files that I wrote for the game and the video shows some of the game play, as well 
+as some of my thoughts on the game.
