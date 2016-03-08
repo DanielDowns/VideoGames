@@ -1,5 +1,5 @@
 Element is a 5 week game created in Unity by myself, Donald Hatch, Lilly Scheibelhut, and David Troxler.
-Its a bullet-hell style game that has a slight rock-paper-siccors element to it.
+Its a bullet-hell style game that has a slight rock-paper-scissors element to it.
 
 I was the Lead Programmer on this game. I programmed the GUI, the player, the weapons,
 level transitions, and various other things.
@@ -8,7 +8,7 @@ Source examples shows a couple of files that I wrote for the game and the video 
 as some of my thoughts on the game.
 
 Cool things in this game:
--3 different alternative weapons
+-3 different weapons
 -4 unique areas and bosses
 -a story and bosses that change depending on your success or failure
 -local co-op
